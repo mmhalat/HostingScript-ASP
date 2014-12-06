@@ -1,0 +1,56 @@
+#ana {
+	height: 87px;
+	width: 269px;
+	background-image: url(arkaplan.PNG);
+	background-repeat: repeat-x;
+}
+#ana #sonuc {
+	font-family: tahoma;
+	font-size: 11px;
+	color: #000000;
+	margin-left: 10px;
+}
+
+#ana #sorguformu .inputlar {
+	margin-left: 10px;
+}
+#ana #sorguformu .inputlar .domain {
+	padding-left: 2px;
+}
+
+
+#ana .inputlar .domain {
+	font-family: tahoma;
+	font-size: 11px;
+	background-color: #E1C28E;
+	border: 1px solid #000000;
+	width: 160px;
+}
+#ana #sorguformu #telif a {
+	color: #000000;
+	text-decoration: none;
+}
+
+#ana #sorguformu #telif {
+	font-family: tahoma;
+	color: #000000;
+	font-size: 10px;
+	float: right;
+	padding-right: 4px;
+	margin-top: 3px;
+}
+#siteyegit {
+	width: 750px;
+	height: 450px;
+	display: none;
+	margin-top: 10px;
+	border:solid 1px black;
+}
+
+
+#ana .inputlar .gonder {
+	font-family: tahoma;
+	font-size: 11px;
+	background-color: #DF5A0B;
+	border: 1px solid #000000;
+}

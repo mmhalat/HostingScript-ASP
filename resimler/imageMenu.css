@@ -1,0 +1,59 @@
+/*big menu*/
+
+#kwick {
+	position: relative;
+	/*border-bottom: 3px double #333;*/
+	margin-top: 0px;
+}
+
+#kwick .kwicks {
+	display: block;
+	height: 300px;
+	width: 520px;
+	margin: 0px;
+}
+
+#kwick li {
+	float: left;
+}
+
+li:after {
+	content: "";
+}
+
+#kwick .kwick {
+	display: block;
+	cursor: pointer;
+	overflow: hidden;
+	height: 300px;
+	width: 97px;
+	/*padding: 10px;*/
+	background: #fff;
+	/*border-right: 5px solid #202020;*/
+	border-right: 8px solid #999;
+}
+
+#kwick .kwick span {
+	display: none;
+}
+
+#kwick .opt1 {
+	background: #9ce782 url(http://niservers.com/js/images/switches.jpg) ;
+}
+
+#kwick .opt2 {
+	background: #92bdfa url(http://niservers.com/js/images/handshake.jpg);
+}
+
+#kwick .opt3 {
+	background: #faa892 url(http://niservers.com/js/images/lock.jpg);
+}
+
+#kwick .opt4 {
+	background: #e78282 url(http://niservers.com/js/images/com.jpg);
+}
+
+#kwick .opt5 {
+	background: #000 url(http://niservers.com/js/images/start.jpg);
+	border-right: 0;
+}

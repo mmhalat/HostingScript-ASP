@@ -1,0 +1,18 @@
+.tool-tip {
+	Z-INDEX: 13000; WIDTH: 139px; COLOR: #fff
+}
+.tool-title {
+	PADDING-RIGHT: 8px; PADDING-LEFT: 8px; FONT-WEIGHT: bold; FONT-SIZE: 11px; BACKGROUND: url(bubble.png) left top; PADDING-BOTTOM: 4px; MARGIN: 0px; COLOR: #9fd4ff; PADDING-TOP: 8px
+}
+.tool-text {
+	PADDING-RIGHT: 8px; PADDING-LEFT: 8px; FONT-SIZE: 11px; BACKGROUND: url(bubble.png) right bottom; PADDING-BOTTOM: 8px; PADDING-TOP: 4px
+}
+.custom-tip {
+	Z-INDEX: 13000; WIDTH: 130px; COLOR: #000
+}
+.custom-title {
+	PADDING-RIGHT: 8px; PADDING-LEFT: 8px; FONT-WEIGHT: bold; FONT-SIZE: 11px; BACKGROUND: #c3df7d; PADDING-BOTTOM: 4px; MARGIN: 0px; COLOR: #3e4f14; PADDING-TOP: 8px; BORDER-BOTTOM: #b5cf74 1px solid
+}
+.custom-text {
+	PADDING-RIGHT: 8px; PADDING-LEFT: 8px; FONT-SIZE: 11px; BACKGROUND: #cfdfa7; PADDING-BOTTOM: 8px; PADDING-TOP: 4px
+}

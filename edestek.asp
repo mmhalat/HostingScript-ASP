@@ -1,0 +1,1 @@
+<object type="application/x-shockwave-flash" id="plugoo" data= "http://www.plugoo.com/plug.swf?go=919OR4A31GSRT2C" width="160" height="300"> <param name="movie" value= "http://www.plugoo.com/plug.swf?go=919OR4A31GSRT2C" /> <param name="allowScriptAccess" value="always" /> <param name="wmode" value="transparent" /> </object>
